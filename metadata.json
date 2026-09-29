@@ -1,0 +1,8 @@
+{
+  "name": "KT 2.0",
+  "description": "Beta Test 8",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
